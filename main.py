@@ -73,7 +73,7 @@ membership = input('Enter customer membership: ')
 makeBill(buyingData, membership)
 
 
-# NEED TO MAKE A MAIN FUNCTION TO RUN THE GLOBAL OBJECTS!
+# make main function to run the program
 def main():
     buyingData = enterProducts()
     membership = input('Enter customer membership: ')
